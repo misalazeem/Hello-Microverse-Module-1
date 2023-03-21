@@ -50,7 +50,7 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[Adding Litners]**
+- **[Adding Linters]**
 - **[Adding branches on github]**
 - **[Understanding .gitignore]**
 
